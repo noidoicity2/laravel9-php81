@@ -15,6 +15,8 @@
         </style>
     </head>
     <body class="antialiased">
+    <h1>hello</h1>
+    <h2>wod</h2>
     @livewire('hello-world')
     </body>
 </html>
